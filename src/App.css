@@ -1,0 +1,45 @@
+.envelop {
+  height: 100%;
+  background: radial-gradient(
+      #f0cdd2 15%,
+      transparent 16%,
+      transparent 49%,
+      #f0cdd2 50%,
+      transparent 51%
+    ),
+    radial-gradient(
+      circle at top left,
+      #f0cdd2 10%,
+      transparent 10%,
+      transparent 39%,
+      #f0cdd2 40%,
+      transparent 41%
+    ),
+    radial-gradient(
+      circle at top right,
+      #f0cdd2 10%,
+      transparent 10%,
+      transparent 39%,
+      #f0cdd2 40%,
+      transparent 41%
+    ),
+    radial-gradient(
+      circle at bottom left,
+      #f0cdd2 10%,
+      transparent 10%,
+      transparent 39%,
+      #f0cdd2 40%,
+      transparent 41%
+    ),
+    radial-gradient(
+      circle at bottom right,
+      #f0cdd2 10%,
+      transparent 10%,
+      transparent 39%,
+      #f0cdd2 40%,
+      transparent 41%
+    );
+  background-size: 6em 6em;
+  background-color: #e2f0de;
+  opacity: 1;
+}

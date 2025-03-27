@@ -1,0 +1,14 @@
+.advNavbar{
+    width: 100%;
+}
+
+.advNavLink{
+    color: #1b0249 !important;
+    font-weight: bold;
+}
+
+.advNavBackground{
+    opacity: 1.0;
+    background: rgb(4,22,119);
+    background: linear-gradient(90deg, rgba(4,22,119,0.8) 0%, rgba(24,41,181,0.7) 50%, rgba(114,124,250,0.9949113434436274) 100%); 
+}

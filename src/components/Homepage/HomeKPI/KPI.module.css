@@ -1,0 +1,22 @@
+.advKpiCard {
+    width: 250px;
+    height: 130px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    box-shadow: 6px 6px 10px rgb(23, 1, 59);
+}
+
+.advKpiCardTitle {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.advKpiCardText{
+    font-size: 13px;
+}
+
+.advKpiIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(1.5);
+}

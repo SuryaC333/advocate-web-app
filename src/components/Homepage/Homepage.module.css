@@ -1,0 +1,16 @@
+.advName{
+    animation: changeShadow 5s infinite;
+    font-weight: bold;
+}
+
+@keyframes changeShadow{
+    0%{
+        text-shadow: 1px 2px 5px blue;
+    }
+    50%{
+        text-shadow: 1px 2px 5px rgb(230, 12, 183);
+    }
+    100%{
+        text-shadow: 1px 2px 5px rgb(198, 8, 56);
+    }
+}
